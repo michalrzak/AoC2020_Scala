@@ -6,16 +6,6 @@ object Task1 {
   def groupCount(group:String):Int = {
     var alph:Array[Boolean] = new Array[Boolean](26)
 
-    /*var count = 0
-    group.foreach(c => {
-      case '\n',' ' => false
-      case _ => {
-        if (alph(c.toByte - 'a'.toByte) == false){
-          alph(c.toByte - 'a'.toByte) = true
-          ++count;
-        }
-      }
-    })*/
 
     val count = group.count(c =>c match {
       case '\n' => false
