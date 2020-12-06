@@ -8,9 +8,6 @@ object Task1 {
 
     val pass = group.count(c => c=='\n')+1
 
-    println(group)
-    println(pass)
-
     val count = group.count(c =>c match {
       case '\n' => false
       case ' ' => false
@@ -30,10 +27,7 @@ object Task1 {
 
   def main(args:Array[String]):Unit = {
     
-    //print(input.trim)
-
     val groups = input.split("\n\n")
-    
     val res = groups.map(g => groupCount(g)).sum
 
     println(res)
