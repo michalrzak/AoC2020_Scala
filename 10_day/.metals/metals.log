@@ -1,0 +1,272 @@
+2020.12.10 08:03:01 INFO  Started: Metals version 0.9.7 in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day' for client vscode.
+2020.12.10 08:03:02 INFO  time: initialize in 1.64s
+2020.12.10 08:03:07 WARN  Build server is not auto-connectable.
+2020.12.10 08:03:07 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 08:03:07 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 08:03:10 INFO  no build target: using presentation compiler with only scala-library
+Dec 10, 2020 8:03:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Dec 10, 2020 8:03:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Dec 10, 2020 8:03:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+Dec 10, 2020 8:03:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+Dec 10, 2020 8:03:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+Dec 10, 2020 8:03:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+Dec 10, 2020 8:03:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+Dec 10, 2020 8:03:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+Dec 10, 2020 8:03:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29
+Dec 10, 2020 8:03:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+Dec 10, 2020 8:03:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35
+Dec 10, 2020 8:03:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34
+Dec 10, 2020 8:03:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40
+Dec 10, 2020 8:03:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39
+Dec 10, 2020 8:03:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 46
+Dec 10, 2020 8:03:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 51
+Dec 10, 2020 8:03:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+something's wrong: no file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala in Array[<error>]RangePosition(file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala, 34, 34, 42)
+something's wrong: no file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala in Array[<error>]RangePosition(file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala, 34, 34, 49)
+something's wrong: no file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala in Array[<error>]RangePosition(file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala, 34, 34, 42)
+something's wrong: no file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala in Array[<error>]RangePosition(file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala, 34, 34, 43)
+something's wrong: no file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala in Array[<error>]RangePosition(file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala, 34, 34, 44)
+something's wrong: no file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala in Array[<error>]RangePosition(file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala, 34, 34, 45)
+something's wrong: no file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala in Array[<error>]RangePosition(file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala, 34, 34, 44)
+something's wrong: no file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala in Array[<error>]RangePosition(file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala, 34, 34, 45)
+something's wrong: no file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala in Array[<error>]RangePosition(file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala, 34, 34, 44)
+something's wrong: no file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala in Array[<error>]RangePosition(file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala, 34, 34, 43)
+something's wrong: no file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala in Array[<error>]RangePosition(file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala, 34, 34, 42)
+something's wrong: no file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala in Array[<error>]RangePosition(file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala, 34, 34, 49)
+something's wrong: no file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala in Array[<error>]RangePosition(file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala, 34, 34, 42)
+something's wrong: no file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala in Array[<error>]RangePosition(file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala, 34, 34, 44)
+something's wrong: no file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala in Array[<error>]RangePosition(file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala, 34, 34, 45)
+something's wrong: no file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala in Array[String]RangePosition(file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala, 34, 34, 47)
+something's wrong: no file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala in Array[String]RangePosition(file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala, 34, 34, 47)
+something's wrong: no file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala in Array[String]RangePosition(file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala, 34, 34, 47)
+Dec 10, 2020 8:03:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 173
+Dec 10, 2020 8:06:16 AM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 132, count -1, length 188
+2020.12.10 08:06:30 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 08:06:44 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 08:09:36 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 08:09:36 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 08:09:36 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 08:09:45 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 08:09:48 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 08:09:48 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 08:10:03 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 08:10:16 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 08:10:46 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 08:11:09 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 08:11:09 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 08:11:09 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 08:11:12 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 08:11:14 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 08:11:22 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 08:11:29 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 08:11:29 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 08:11:38 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 08:11:38 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 08:11:42 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 08:12:02 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 08:12:48 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 08:14:24 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+something's wrong: no file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala in Array[String]RangePosition(file:///home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala, 158, 158, 171)
+2020.12.10 08:14:53 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 08:14:53 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 08:15:26 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 08:15:26 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 08:15:48 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 08:15:48 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 08:15:54 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 08:16:40 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 08:16:40 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 08:16:43 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 08:16:43 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 08:19:13 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task copy.scala
+2020.12.10 08:19:19 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:19:57 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:20:05 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+Dec 10, 2020 8:20:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 10, 2020 8:20:19 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 10, 2020 8:21:45 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Dec 10, 2020 8:21:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:23)
+
+Dec 10, 2020 8:22:23 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 103, count -1, length 781
+java.lang.StringIndexOutOfBoundsException: offset 103, count -1, length 781
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3304)
+	at java.base/java.lang.String.rangeCheck(String.java:280)
+	at java.base/java.lang.String.<init>(String.java:276)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:375)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:373)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:198)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:309)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:303)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:272)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:27)
+
+2020.12.10 08:22:31 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:22:33 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+Dec 10, 2020 8:22:39 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 758, count -1, length 782
+java.lang.StringIndexOutOfBoundsException: offset 758, count -1, length 782
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3304)
+	at java.base/java.lang.String.rangeCheck(String.java:280)
+	at java.base/java.lang.String.<init>(String.java:276)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:375)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:373)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:198)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:309)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:303)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:272)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:27)
+
+Dec 10, 2020 8:22:43 AM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 775, count -1, length 793
+Dec 10, 2020 8:22:55 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 776, count -1, length 801
+java.lang.StringIndexOutOfBoundsException: offset 776, count -1, length 801
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3304)
+	at java.base/java.lang.String.rangeCheck(String.java:280)
+	at java.base/java.lang.String.<init>(String.java:276)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:375)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:373)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:198)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:309)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:303)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:272)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:27)
+
+2020.12.10 08:22:59 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:23:06 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:23:25 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:23:56 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:24:21 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:24:33 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:24:46 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:24:56 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:25:06 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:26:45 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:27:25 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:27:25 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:44:06 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:44:33 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:46:46 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:47:16 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:48:23 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:49:47 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 08:49:54 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:50:00 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:51:27 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:51:38 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:52:31 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:52:36 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:59:27 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 08:59:27 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 08:59:27 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 09:00:51 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 09:00:59 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 09:02:34 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 09:02:34 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 09:02:44 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 09:02:44 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 09:02:44 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 09:03:33 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 09:06:04 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 09:06:20 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+Dec 10, 2020 9:07:10 AM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 1298, count -1, length 1375
+2020.12.10 09:07:17 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 09:09:17 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 09:09:42 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 09:09:42 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 09:09:44 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/1_task.scala
+2020.12.10 09:10:06 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 09:10:11 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 09:10:38 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 09:10:58 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 09:11:13 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 09:11:13 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 09:17:52 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 09:20:31 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 09:59:13 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 09:59:13 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 09:59:14 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 09:59:21 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 09:59:22 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 09:59:24 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+Dec 10, 2020 10:08:06 AM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 1445, count -1, length 1565
+2020.12.10 10:08:08 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+Dec 10, 2020 10:44:34 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Dec 10, 2020 10:44:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:23)
+
+2020.12.10 10:45:16 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 10:45:43 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 10:45:43 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 10:45:43 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 10:45:43 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 10, 2020 10:46:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5325
+2020.12.10 10:46:23 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 10:47:44 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 10:48:03 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 10:48:34 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 10:48:45 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 10:48:58 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 10:49:03 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 10:49:25 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 10:49:25 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 10:50:12 WARN  no build tool detected in workspace '/home/mzak/Workspace/AoC2020_Scala/10_day'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.10 10:50:12 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 10:50:37 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 10:50:58 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
+2020.12.10 10:51:23 WARN  no build target for: /home/mzak/Workspace/AoC2020_Scala/10_day/2_task.scala
